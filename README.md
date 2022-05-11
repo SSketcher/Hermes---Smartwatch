@@ -21,19 +21,28 @@ On a two-core cable:
 
 
 ![alt text](https://github.com/SSketcher/Hermes---Smartwatch/blob/main/resources/1.png)
+
 The attached photo shows the project housing with attached electronics.
 
-![alt text](https://github.com/SSketcher/Hermes---Smartwatch/blob/main/resources2.png)
+
+
+![alt text](https://github.com/SSketcher/Hermes---Smartwatch/blob/main/resources/2.png)
+
 Project splash screen This is where all initializations and full project start up is performed.
 
 
+
 ![alt text](https://github.com/SSketcher/Hermes---Smartwatch/blob/main/resources/3.png)
+
 Data synchronization screen, consisting of three phases:
 - establishing a connection with Wi-Fi
 - establishing a connection with database
 - sending the SQL command with the data to the database
 
+
+
 ![alt text](https://github.com/SSketcher/Hermes---Smartwatch/blob/main/resources/4.png)
+
 The main screen displays the time and basic information collected from sensors, processed on an ongoing basis for the user:
 - the number of steps taken
 - the heart rate.
