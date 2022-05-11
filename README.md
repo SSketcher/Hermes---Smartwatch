@@ -63,4 +63,5 @@ Libraries:
 
 ## Sources and helpful materials
 [ESP8266 Arduino Core’s documentation](https://arduino-esp8266.readthedocs.io/en/latest/)
+
 [Arduino framework for esp8266](https://www.arduino.cc/reference/en/libraries/esp8266-framework/)
